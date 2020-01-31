@@ -12,7 +12,7 @@ The Okta Administrator Roles API provides operations to manage administrative ro
 
 ## Getting Started with Administrator Roles
 
-Explore the Administrator Roles API:  [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/04f5ec85685ac6f2827e)
+Explore the Administrator Roles API:  [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0c3c7ba198a8e38b5cbc)
 
 ## Role Assignment Operations
 
